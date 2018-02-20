@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="pinkSquare" parent="android:Widget.EditText">
+        android:gravity="center"
+        android:layout_width="31dp"
+        android:layout_height="31dp"
+        android:layout_column="4"
+
+        android:layout_margin="1dp"
+        android:layout_row="1"
+        android:background="#ff80ff"
+        android:ems="10"
+        android:inputType="number"
+        android:text=""
+        app:layout_constraintLeft_toLeftOf="parent"
+        tools:layout_editor_absoluteY="48dp"
+    </style>
+
+</resources>
