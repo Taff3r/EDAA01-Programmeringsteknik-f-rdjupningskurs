@@ -1,1 +1,1 @@
-Android application that will bruteforce any solvalble Sudoku. 
+Android application that will bruteforce any solvable Sudoku. 
