@@ -1,1 +1,1 @@
-Projekt och laborationer i EDAA01 2017
+Android application that will bruteforce any solvalble Sudoku. 
